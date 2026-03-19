@@ -16,7 +16,7 @@ A Gen-Z vibe blog platform built with a 3-tier architecture — React frontend, 
 > git checkout devops
 > ```
 
----
+----
 
 ## ✨ Features
 
