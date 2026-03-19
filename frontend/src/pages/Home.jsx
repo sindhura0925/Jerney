@@ -39,7 +39,7 @@ function Home() {
         <div className="vibe-tags">
           <span className="vibe-tag">✨ no cap content</span>
           <span className="vibe-tag">🔥 hot takes</span>
-          <span className="vibe-tag">💎 real ones only</span>
+          <span className="vibe-tag">💎 real ones onlyyyyyyyyyyyyyyyyyyyyyyyy</span>
         </div>
       </div>
 
