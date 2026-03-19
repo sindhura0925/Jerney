@@ -14,7 +14,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/post/:id" element={<PostDetail />} />
-          <Route path="/create" element={<CreatePost />} />
+          <Route path="/createeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.........." element={<CreatePost />} />
           <Route path="/edit/:id" element={<EditPost />} />
         </Routes>
       </main>
